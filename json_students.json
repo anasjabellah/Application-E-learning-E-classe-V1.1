@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 2,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 3,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 4,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 5,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 6,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 7,
+        "name": "username",
+        "email": "user@gmail.com",
+        "phone": "7305477760",
+        "enroll_number": "1234567305477760",
+        "date_of_addmission": "08-Dec, 2021"
+    },
+    {
+        "id": 0,
+        "name": "jabellah anas",
+        "email": "jablcodiing@gmail.com",
+        "phone": "0968787867",
+        "enroll_number": "19228",
+        "date_of_addmission": "2022-01-31"
+    },
+    {
+        "id": 0,
+        "name": "jabellah anas",
+        "email": "jablcodiing@gmail.com",
+        "phone": "0968787867",
+        "enroll_number": "11111111111",
+        "date_of_addmission": "2022-02-03"
+    }
+]
